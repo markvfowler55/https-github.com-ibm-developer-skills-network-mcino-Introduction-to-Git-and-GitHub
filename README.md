@@ -1,3 +1,6 @@
+
+This README was edited as part of the assignment
+
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
