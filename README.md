@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+This line was added as part of the GitHub practice project to demonstrate creating a branch and merging changes.
