@@ -12,5 +12,5 @@ t - Time period in years
 r - Annual rate of interest (%)
 
 Output:
-simple interest = (p _ t _ r) / 100
+simple interest = (p * t * r) / 100
 ```
