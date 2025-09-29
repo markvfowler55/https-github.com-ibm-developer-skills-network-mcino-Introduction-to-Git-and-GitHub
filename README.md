@@ -12,5 +12,6 @@ Input:
 Output
    simple interest = p*t*r
 ```
+#This line was added for the bug-fix-typo branch.
 
 _© 2022 XYZ, Inc._
