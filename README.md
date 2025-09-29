@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub
+# Introduction to Git and GitHub - Fixed Typo
 
 ## Simple Interest Calculator
 
@@ -14,3 +14,14 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+ 
+## Additional Documentation 
+This repository demonstrates Git workflow concepts including branching, merging, and pull requests. 
+ 
+### Learning Objectives 
+- Understanding Git CLI commands 
+- Practicing branch management 
+- Implementing merge workflows 
+ 
+## Additional Documentation 
+This repository demonstrates Git workflow concepts including branching, merging, and pull requests. 
