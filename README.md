@@ -2,7 +2,7 @@
 
 ## Simple Interest Calculator
 
-A calculator that calculates simple interest using python given principal, annual rate of interest and time period in years.
+A calculator that calculates simple interest using python script given principal, annual rate of interest and time period in years.
 
 ```
 Input:
