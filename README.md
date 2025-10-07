@@ -3,6 +3,7 @@
 ## Simple Interest Calculator
 
 The calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+This is a test merge for Coursera Task 2
 
 ```
 Input:
