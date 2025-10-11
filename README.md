@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+Edited by Synta Nur Afiana Azizah — fixed small typo.
