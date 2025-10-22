@@ -1,4 +1,7 @@
-# Introduction to Git and GitHub
+# IntroductiontoGitandGitHub
+This line was edited in the bug-fix-typo branch.
+
+This line was edited in the bug-fix-typo branch.
 
 ## Simple Interest Calculator
 
