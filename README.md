@@ -4,6 +4,8 @@
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
+Some changes made in README file to perform a merge (for assignment submission)
+
 ```
 Input:
    p, principal amount
