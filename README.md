@@ -1,3 +1,4 @@
+This typo has been fixed in the bug-fix-typo branch.
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
