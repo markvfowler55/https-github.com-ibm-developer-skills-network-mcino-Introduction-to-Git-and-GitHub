@@ -4,7 +4,13 @@
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-```
+``` 
+------ HUDA -------
+This is a typo fix test for the course assignment
+
+
+
+
 Input:
    p, principal amount
    t, time period in years
