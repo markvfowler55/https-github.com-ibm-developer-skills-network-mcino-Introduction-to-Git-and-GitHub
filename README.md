@@ -14,3 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+Note: This correction fixes a grammar typo in the README.
