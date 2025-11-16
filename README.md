@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2023 XYZ, Inc._
+
+(Addition made for project screenshot.)
