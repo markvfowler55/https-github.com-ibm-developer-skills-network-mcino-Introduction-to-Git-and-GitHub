@@ -14,8 +14,3 @@ Output
 ```
 
 _© 2023 XYZ, Inc._
-<<<<<<< HEAD
-
-(Addition made for project screenshot.)
-=======
->>>>>>> main
