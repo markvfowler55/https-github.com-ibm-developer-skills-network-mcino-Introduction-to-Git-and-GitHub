@@ -15,6 +15,9 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+<<<<<<< HEAD
 =======
 # coding-project-template
 >>>>>>> parent of d8324ad (Update README.md)
+=======
+>>>>>>> parent of 5e75dc6 (WIP: temporary changes before revert)
