@@ -14,4 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-This is my first merge for the Coursera assignment.
+This is my first merge for the Coursera assignment
