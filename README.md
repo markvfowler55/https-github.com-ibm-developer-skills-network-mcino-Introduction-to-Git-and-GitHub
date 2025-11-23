@@ -1,4 +1,4 @@
-this readme.md file is updated by bug-fix-typo branch
+This repo readme.md file is updated by bug-fix-typo branch
 
 # Introduction to Git and GitHub
 
