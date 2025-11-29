@@ -14,5 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-This is a second test change for the pull request task.
+
 
