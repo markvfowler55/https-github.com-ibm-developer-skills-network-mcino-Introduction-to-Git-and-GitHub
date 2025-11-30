@@ -1,0 +1,71 @@
+[33mcommit 1c1dcbb398991780fa6536a6c276fb689f6d65f2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mbug-fix-typo[m[33m)[m
+Author: Manos-Babaletakis <emmbamp@gmail.com>
+Date:   Sun Nov 30 16:27:21 2025 -0500
+
+    changed footnote in readme
+
+[33mcommit ad95b0abe521c61effc692e83d5babd5fbf25910[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ritikaj23 <128594913+ritikaj23@users.noreply.github.com>
+Date:   Thu Sep 4 15:32:47 2025 +0530
+
+    Create close_pr.yml
+    
+    Updated as per old repo
+
+[33mcommit 13af26282502789ba67b5038a822688b5b206644[m
+Author: ritikaj23 <128594913+ritikaj23@users.noreply.github.com>
+Date:   Thu Sep 4 15:31:21 2025 +0530
+
+    Create feature_request.md
+
+[33mcommit cd5f237d15a2b1fe4c7d95ff1da0b7db159625e5[m
+Author: ritikaj23 <128594913+ritikaj23@users.noreply.github.com>
+Date:   Thu Sep 4 15:30:31 2025 +0530
+
+    Create bug_report.md
+    
+    Updated as per the old repo
+
+[33mcommit cdeb3559cfc11717c7dd1ea59ba1378888784b54[m
+Author: ritikaj23 <128594913+ritikaj23@users.noreply.github.com>
+Date:   Thu Sep 4 15:28:39 2025 +0530
+
+    Create CODE_OF_CONDUCT.md
+    
+    Updated as per the old repo.
+
+[33mcommit 3f7857c975ca8cb7530113101496e868286663b6[m
+Author: ritikaj23 <128594913+ritikaj23@users.noreply.github.com>
+Date:   Thu Sep 4 15:27:26 2025 +0530
+
+    Create CONTRIBUTING.md
+    
+    Updated as per the old repo
+
+[33mcommit 2a3b643a65fefee54607502beb8b65190c80b27b[m
+Author: ritikaj23 <128594913+ritikaj23@users.noreply.github.com>
+Date:   Thu Sep 4 15:22:41 2025 +0530
+
+    Create simple-interest.sh
+
+[33mcommit f4e5aa309194c0d3c0b279a9fb7fe31c740ececd[m
+Author: ritikaj23 <128594913+ritikaj23@users.noreply.github.com>
+Date:   Thu Sep 4 15:21:10 2025 +0530
+
+    Create compound_interest.py
+    
+    updated as per old repo
+
+[33mcommit d8324ad0ec067ab2eb9af55d2819104be2e42e3f[m
+Author: ritikaj23 <128594913+ritikaj23@users.noreply.github.com>
+Date:   Thu Sep 4 15:19:34 2025 +0530
+
+    Update README.md
+    
+    Updated as per the old repo
+
+[33mcommit 484d87903da625447dfb290c8482b913c1382d19[m
+Author: ibm-skills-network-bot <70593948+ibm-skills-network-bot@users.noreply.github.com>
+Date:   Thu Sep 4 02:07:45 2025 -0400
+
+    Initial commit
