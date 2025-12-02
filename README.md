@@ -12,5 +12,7 @@ Input:
 Output
    simple interest = p*t*r
 ```
+git add README.md
+git commit -m "Fix typo: change footer year from 2022 to 2023"
 
-_© 2022 XYZ, Inc._
+_© 2023 XYZ, Inc._
