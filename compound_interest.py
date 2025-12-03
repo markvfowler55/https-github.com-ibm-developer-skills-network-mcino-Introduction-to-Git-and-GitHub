@@ -11,17 +11,25 @@
 
 # Output:
 # compound interest = p * (1 + r/100)^t
-
+import sys
 
 def compound_interest(p, t, r):
     return p * (pow((1 + r / 100), t))
 
 def main():
-    p = float(input("Enter the principal amount: "))
-    t = float(input("Enter the time period: "))
-    r = float(input("Enter the rate of interest: "))
 
-    print("The compound interest is {:.2f}".format(compound_interest(p, t, r)))
+    # for speed 
+    read = sys.stdin.readline
+    write = sys.stdout.write
+
+    write("Enter the principal amount: ")
+    p = float(read())
+    write("Enter the time period: ")
+    t = float(read())
+    write("Enter the interest rate: ")
+    r = float(read())
+
+    print(f"The compound interest is {compound_interest(p, t, r):.2f}")
 
 
 if __name__ == "__main__":
