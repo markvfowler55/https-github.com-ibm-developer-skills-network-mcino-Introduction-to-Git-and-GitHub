@@ -2,6 +2,7 @@
 # Do not use this in production. Sample purpose only.
 
 # Author: Upkar Lidder (IBM)
+# Updated by HamzaIDM
 
 # Input:
 # p, principal amount
@@ -15,10 +16,13 @@
 def compound_interest(p, t, r):
     return p * (pow((1 + r / 100), t))
 
-
-if __name__ == "__main__":
+def main():
     p = float(input("Enter the principal amount: "))
     t = float(input("Enter the time period: "))
     r = float(input("Enter the rate of interest: "))
 
     print("The compound interest is {:.2f}".format(compound_interest(p, t, r)))
+
+
+if __name__ == "__main__":
+    main()
