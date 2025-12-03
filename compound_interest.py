@@ -18,7 +18,7 @@ def compound_interest(p, t, r):
 
 def main():
 
-    # for speed 
+    # for speed
     read = sys.stdin.readline
     write = sys.stdout.write
 
