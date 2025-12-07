@@ -12,13 +12,29 @@
 # compound interest = p * (1 + r/100)^t
 
 
-def compound_interest(p, t, r):
-    return p * (pow((1 + r / 100), t))
+def compound_interest(principal, time, rate):
+    """Calculate compound interest."""
+    return principal * (pow((1 + rate / 100), time))
+
+
+def get_float_input(prompt):
+    """Get a float input with validation."""
+    while True:
+        try:
+            value = float(input(prompt))
+            return value
+        except ValueError:
+            print("Invalid input! Please enter a number.")
 
 
 if __name__ == "__main__":
-    p = float(input("Enter the principal amount: "))
-    t = float(input("Enter the time period: "))
-    r = float(input("Enter the rate of interest: "))
+    print("Compound Interest Calculator")
 
-    print("The compound interest is {:.2f}".format(compound_interest(p, t, r)))
+    # Get validated inputs
+    principal = get_float_input("Enter the principal amount: ")
+    time = get_float_input("Enter the time period (in years): ")
+    rate = get_float_input("Enter the rate of interest (in %): ")
+
+    # Calculate compound interest
+    interest = compound_interest(principal, time, rate)
+    print("The compound interest is: {:.2f}".format(interest))
