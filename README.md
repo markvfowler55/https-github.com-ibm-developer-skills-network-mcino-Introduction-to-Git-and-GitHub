@@ -1,5 +1,4 @@
 # Introduction to Git and GitHub
-# readme update
 
 ## Simple Interest Calculator
 
