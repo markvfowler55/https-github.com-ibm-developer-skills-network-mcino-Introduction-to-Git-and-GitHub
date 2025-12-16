@@ -1,7 +1,0 @@
-git checkout main
-Switched to branch 'main'
-git merge bug-fix-typo
-Updating [hash_1]..[hash_2]
-Fast-forward
- README.md | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
