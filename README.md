@@ -2,6 +2,7 @@
 
 # Simple Interest Calculator
 This project calculates simple interest using a bash script.
+Another minor update.
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
@@ -16,5 +17,3 @@ Output
 
 _© 2022 XYZ, Inc._
 
-# Simple Interest Calculator
-This project calculates simple interest using a bash script.
