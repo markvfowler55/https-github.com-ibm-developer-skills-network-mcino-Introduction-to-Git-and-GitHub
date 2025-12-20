@@ -3,6 +3,7 @@
 # Simple Interest Calculator
 This project calculates simple interest using a bash script.
 Another minor update.
+Reverted change example.
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
