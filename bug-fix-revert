@@ -1,0 +1,17 @@
+Git-and-GitHub.git bug-fix-revert
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (5/5), 588 bytes | 588.00 KiB/s, done.
+Total 5 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+remote: 
+remote: Create a pull request for 'bug-fix-revert' on GitHub by visiting:
+remote:      https://github.com/Sweta170/mcino-Introduction-to-Git-and-GitHub/pull/new/bug-fix-revert
+remote: 
+To https://github.com/Sweta170/mcino-Introduction-to-Git-and-GitHub.git
+ * [new branch]      bug-fix-revert -> bug-fix-revert
+theia@theia-sweta1221712:/home/project/mcino-Introduction-to-Git-and-GitHub$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/3819 | jq -r '.head.repo.clone_url'
+https://github.com/Sweta170/mcino-Introduction-to-Git-and-GitHub.git
+theia@theia-sweta1221712:/home/project/mcino-Introduction-to-Git-and-
