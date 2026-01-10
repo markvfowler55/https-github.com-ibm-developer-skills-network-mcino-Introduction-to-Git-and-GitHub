@@ -24,5 +24,3 @@ read t
 s=$(expr $p \* $t \* $r / 100)
 echo "The simple interest is: "
 echo $s
-
-# Simple Pull Request from alexbalak21 for Final Project: Submission and Evaluation Coursera
