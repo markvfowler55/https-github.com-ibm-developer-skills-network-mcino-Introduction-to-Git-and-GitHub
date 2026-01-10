@@ -1,0 +1,4 @@
+theia@theia-nemethk1:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+  bug-fix-revert ec007fc [origin/bug-fix-revert] Revert "Updated the year in README.md"
+  bug-fix-typo   e4329a2 Updated the year in README.md
+* main           e4329a2 [origin/main: ahead 1] Updated the year in README.md
