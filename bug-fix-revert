@@ -1,0 +1,5 @@
+Command:
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/<Pull-Request-ID> | jq -r '.head.repo.clone_url'
+
+Output:
+https://github.com/HarshaS18/mcino-Introduction-to-Git-and-GitHub.git
