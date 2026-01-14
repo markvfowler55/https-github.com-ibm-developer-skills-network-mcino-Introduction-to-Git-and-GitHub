@@ -1,0 +1,4 @@
+curl -s https://api.github.com/repos/itumphoso/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
+cmdlet Invoke-WebRequest at command pipeline position 1
+Supply values for the following parameters:
+Uri: 
