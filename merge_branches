@@ -1,0 +1,11 @@
+maricuico@Maris-MacBook-Pro mcino-Introduction-to-Git-and-GitHub % git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+maricuico@Maris-MacBook-Pro mcino-Introduction-to-Git-and-GitHub % ls
+CODE_OF_CONDUCT.md      CONTRIBUTING.md         LICENSE                 README.md               compound_interest.py    forked-repo             simple-interest.sh
+maricuico@Maris-MacBook-Pro mcino-Introduction-to-Git-and-GitHub % git merge bug-fix-typo
+Updating a5b8486..fbdc276
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+maricuico@Maris-MacBook-Pro mcino-Introduction-to-Git-and-GitHub %
