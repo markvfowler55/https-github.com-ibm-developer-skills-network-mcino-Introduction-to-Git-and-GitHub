@@ -1,0 +1,8 @@
+git checkout main
+Your branch is up to date with 'origin/main'.
+
+git merge bug-fix-typo
+Updating d3289db..704d822
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
