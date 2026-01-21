@@ -4,14 +4,14 @@
 # Author: Upkar Lidder (IBM)
 
 # Input:
-# r, principal amount
-# k, time period in years
+# p, principal amount
+# t, time period in years
 # r, annual rate of interest
 
 # Output:
 # compound interest = p * (1 + r/100)^t
 
-20asdadf XYZ, Inc.
+
 def compound_interest(p, t, r):
     return p * (pow((1 + r / 100), t))
 
