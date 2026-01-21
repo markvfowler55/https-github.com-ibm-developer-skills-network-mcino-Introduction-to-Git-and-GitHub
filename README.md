@@ -12,5 +12,5 @@ Input:
 Output
    simple interest = p*t*r
 ```
-
+Fixed a small typo for Coursera final project.
 _© 2022 XYZ, Inc._
