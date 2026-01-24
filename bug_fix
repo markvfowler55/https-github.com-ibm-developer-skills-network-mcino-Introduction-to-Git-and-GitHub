@@ -1,0 +1,9 @@
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/4614
+
+"state": "closed",
+"head": {
+  "repo": {
+    "full_name": "suryansh-git-hub/mcino-Introduction-to-Git-and-GitHub",
+    "fork": true
+  }
+}
