@@ -1,0 +1,16 @@
+$ curl https://api.github.com/repos/a-qalmuratov/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "id": 1141811041,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "a-qalmuratov/mcino-Introduction-to-Git-and-GitHub",
+        "fork": true,
+          "parent": {
+              "id": 1050225087,
+                  "name": "mcino-Introduction-to-Git-and-GitHub",
+                      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+                          "owner": {
+                                "login": "ibm-developer-skills-network"
+                                    }
+                                      }
+                                      }
