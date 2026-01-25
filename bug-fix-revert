@@ -1,0 +1,6 @@
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/PR_NUMBER
+{
+  "message": "Not Found",
+  "documentation_url": "https://docs.github.com/rest/pulls/pulls#get-a-pull-request",
+  "status": "404"
+}
