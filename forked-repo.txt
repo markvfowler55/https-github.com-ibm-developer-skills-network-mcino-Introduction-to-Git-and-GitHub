@@ -1,0 +1,1 @@
+theia@theia-nriver10:/home/project$ curl -s https://api.github.com/repos/nriver10/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
