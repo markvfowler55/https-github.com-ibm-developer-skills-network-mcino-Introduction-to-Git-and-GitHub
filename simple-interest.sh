@@ -21,6 +21,9 @@ read r
 echo "Enter time period in years:"
 read t
 
+echo "enter something"
+read s
+
 s=$(expr $p \* $t \* $r / 100)
 echo "The simple interest is: "
 echo $s
