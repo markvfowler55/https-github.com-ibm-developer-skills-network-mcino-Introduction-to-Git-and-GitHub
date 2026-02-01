@@ -1,0 +1,8 @@
+tanner@tanner-ThinkPad-T490s:~/github/mcino-Introduction-to-Git-and-GitHub$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+tanner@tanner-ThinkPad-T490s:~/github/mcino-Introduction-to-Git-and-GitHub$ git merge bug-fix-typo
+Updating ad95b0a..d5110fa
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
