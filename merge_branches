@@ -1,10 +1,8 @@
-git checkout main
-Already on 'main'
-Your branch is behind 'origin/main' by 1 commit, and can be fast-forwarded.
-  (use "git pull" to update your local branch)
+$ git checkout main
+Switched to branch 'main'
 
-git merge bug-fix-typo
-Updating f937eff..ad95b0a
+$ git merge bug-fix-typo
+Updating 3a2f1b0..5d7c8e1
 Fast-forward
- README.md | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
