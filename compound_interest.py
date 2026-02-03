@@ -7,15 +7,15 @@
 # p, principal amount
 # t, time period in years
 # r, annual rate of interest
-
+print("this is calculation of compund interest")
 # Output:
 # compound interest = p * (1 + r/100)^t
 
-
+#yess
 def compound_interest(p, t, r):
     return p * (pow((1 + r / 100), t))
 
-
+print("enter all fields accurately")
 if __name__ == "__main__":
     p = float(input("Enter the principal amount: "))
     t = float(input("Enter the time period: "))
