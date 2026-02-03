@@ -17,10 +17,12 @@ _© 2022 XYZ, Inc._
 
 
 git checkout main
-Switched to branch 'main'
+Already on 'main'
+Your branch is behind 'origin/main' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
 
 git merge bug-fix-typo
-Updating a1b2c3d..e4f5g6h
+Updating f937eff..ad95b0a
 Fast-forward
- README.md | 1 +
- 1 file changed, 1 insertion(+)
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
