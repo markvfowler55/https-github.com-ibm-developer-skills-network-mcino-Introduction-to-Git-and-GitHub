@@ -1,3 +1,4 @@
-  bug-fix-typo ad95b0a Create close_pr.yml
-* main         bca7706 Update merge_branches
-  pr/3597      75fab91 yer change
+bug-fix-revert f937eff Update README.md
+  bug-fix-typo   ad95b0a Create close_pr.yml
+* main           f937eff Update README.md
+  pr/3597        75fab91 yer change
