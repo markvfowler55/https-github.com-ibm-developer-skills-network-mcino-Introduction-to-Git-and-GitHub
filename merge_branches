@@ -1,9 +1,8 @@
-type merge_branches
-PS C:\Users\prathap\Downloads\mcino-Introduction-to-Git-and-GitHub> git checkout main
-Already on 'main'
+git checkout main
+Switched to branch 'main'
 
-PS C:\Users\prathap\Downloads\mcino-Introduction-to-Git-and-GitHub> git merge bug-fix-typo
+git merge bug-fix-typo
 Updating a1b2c3d..e4f5g6h
 Fast-forward
- typo.txt | 1 +
+ README.md | 1 +
  1 file changed, 1 insertion(+)
