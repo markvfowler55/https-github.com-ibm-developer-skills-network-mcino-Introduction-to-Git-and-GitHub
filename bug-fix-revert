@@ -1,4 +1,4 @@
-$ curl -H "Accept: application/vnd.github.v3+json" \
+curl -H "Accept: application/vnd.github.v3+json" \
 https://api.github.com/repos/pandugoud/mcino-Introduction-to-Git-and-GitHub/pulls/1
 
 {
@@ -14,7 +14,10 @@ https://api.github.com/repos/pandugoud/mcino-Introduction-to-Git-and-GitHub/pull
       "id": 2233445566,
       "name": "mcino-Introduction-to-Git-and-GitHub",
       "full_name": "pandugoud/mcino-Introduction-to-Git-and-GitHub",
-      "fork": true
+      "fork": true,
+      "owner": {
+        "login": "pandugoud"
+      }
     }
   },
   "base": {
