@@ -1,6 +1,30 @@
+$ curl -H "Accept: application/vnd.github.v3+json" \
+https://api.github.com/repos/githubtraining/Introduction-to-Git-and-GitHub/pulls/1
 
-"head": {
-  "repo": {
-    "full_name": "fork-username/repo-name"
+{
+  "url": "https://api.github.com/repos/githubtraining/Introduction-to-Git-and-GitHub/pulls/1",
+  "id": 123456789,
+  "state": "open",
+  "title": "Fix typo in documentation",
+  "head": {
+    "label": "prathap:bug-fix-typo",
+    "ref": "bug-fix-typo",
+    "repo": {
+      "id": 987654321,
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "prathap/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true,
+      "owner": {
+        "login": "prathap"
+      }
+    }
+  },
+  "base": {
+    "label": "githubtraining:main",
+    "ref": "main",
+    "repo": {
+      "name": "Introduction-to-Git-and-GitHub",
+      "full_name": "githubtraining/Introduction-to-Git-and-GitHub"
+    }
   }
 }
