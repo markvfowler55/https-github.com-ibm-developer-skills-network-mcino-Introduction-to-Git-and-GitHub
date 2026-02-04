@@ -1,0 +1,5 @@
+git checkout main
+<output>
+
+git merge bug-fix-typo
+<output showing 1 file changed>
