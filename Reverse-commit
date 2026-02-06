@@ -1,0 +1,13 @@
+Revert "Fix typo in Readme"
+
+This reverts commit 2673dd906d0ce07772a1ce7710fe01a05c5bfb35.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch bug-fix-revert
+# Changes to be committed:
+#	modified:   README.md
+#
+Revert on correction
+
