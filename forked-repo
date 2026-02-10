@@ -1,0 +1,3 @@
+theia@theia-schnagermain:/home/project$ curl -s https://api.github.com/repos/Schna2018/mcino-Introduction-to-Git-and-GitHub | jq -r '.fork, .parent.full_name'
+true
+ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
