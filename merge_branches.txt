@@ -1,0 +1,10 @@
+theia@theia-lamarvantagl:/home/project/mcino-Introduction-to-
+Git-and-GitHub$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+theia@theia-lamarvantagl:/home/project/mcino-Introduction-to-
+Git-and-GitHub$ git merge bug-fix-typo
+Merge made by the 'ort' strategy.
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
