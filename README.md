@@ -5,6 +5,8 @@
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
+This project demonstrates Git and GitHub basics.
+
 Input:
    p, principal amount
    t, time period in years
