@@ -1,0 +1,21 @@
+curl https://api.github.com/repos/sittthawe/mcino-Introduction-to-Git-and-GitHub/pulls/3
+
+
+{
+  "url": "https://api.github.com/repos/sittthawe/mcino-Introduction-to-Git-and-GitHub/pulls/3",
+  "id": 123456789,
+  "number": 3,
+  "state": "open",
+  "title": "Bug fix revert",
+  "head": {
+    "label": "sittthawe:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "repo": {
+      "full_name": "sittthawe/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true
+    }
+  },
+  "base": {
+    "ref": "main"
+  }
+}
