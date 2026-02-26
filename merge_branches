@@ -1,0 +1,10 @@
+theia@theia-u24012250247:/home/project/mcino-Introduction-to-G
+it-and-GitHub$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+theia@theia-u24012250247:/home/project/mcino-Introduction-to-G
+it-and-GitHub$ git merge bug-fix-typo
+Updating ad95b0a..4280f90
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
