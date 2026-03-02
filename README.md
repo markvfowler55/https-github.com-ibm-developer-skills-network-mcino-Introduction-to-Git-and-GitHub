@@ -1,4 +1,6 @@
-# Introduction to Git and GitHub
+git add README.md
+git commit -m "Fix typo in README"git add README.md
+git commit -m "Fix typo in README"# Introduction to Git and GitHub
 
 ## Simple Interest Calculator
 
