@@ -1,0 +1,3 @@
+ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
+curl -s https://api.github.com/repos/<your-username>/mcino-Introduction-to-Git-and-GitHub \
+| jq -r '.parent.full_name' > forked-repo

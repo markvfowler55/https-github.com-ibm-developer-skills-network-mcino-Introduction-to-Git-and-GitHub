@@ -1,0 +1,6 @@
+3fbc3b5 Fixed typo in README
+git add merge_branches
+git commit -m "Added merge_branches file with merge log"
+git push origin main
+
+
