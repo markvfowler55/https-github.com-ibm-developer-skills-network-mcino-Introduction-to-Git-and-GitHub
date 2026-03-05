@@ -14,7 +14,7 @@
 # Output:
 # simple interest = p*t*r
 
-echo "Enter the principal:"
+echo "Please Enter the principal:"
 read p
 echo "Enter rate of interest per year:"
 read r
