@@ -1,0 +1,10 @@
+git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+git merge bug-fix-typo             
+Updating ad95b0a..a93e161
+Fast-forward
+ README.md   | 2 +-
+ forked-repo | 2 ++
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+ create mode 100644 forked-repo
