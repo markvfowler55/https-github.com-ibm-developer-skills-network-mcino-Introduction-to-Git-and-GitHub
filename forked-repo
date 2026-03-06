@@ -1,0 +1,2 @@
+curl.exe -s -H "User-Agent: curl" "https://api.github.com/repos/JAZ-CO/mcino-Introduction-to-Git-and-GitHub" |    
+>>   powershell -NoProfile -Command '$json = $input | Out-String; ($json | ConvertFrom-Json).parent.clone_url'
