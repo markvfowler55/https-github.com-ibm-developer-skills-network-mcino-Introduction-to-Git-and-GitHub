@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+# minor fix
+Updated README for pull request
