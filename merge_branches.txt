@@ -1,0 +1,11 @@
+git checkout main
+git merge bug-fix-typo
+Merge made by the 'ort' strategy.git checkout main
+git merge bug-fix-typo
+Merge made by the 'ort' strategy.git checkout main
+git merge bug-fix-typo
+Merge made by the 'ort' strategy.git checkout main
+git merge bug-fix-typo
+Merge made by the 'ort' strategy.git checkout main
+git merge bug-fix-typo
+Merge made by the 'ort' strategy.
