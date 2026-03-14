@@ -14,3 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+This calculator program computes simple interest using Bash.
