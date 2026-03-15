@@ -1,0 +1,11 @@
+[
+    {
+        "label": "compound_interest",
+        "kind": 2,
+        "importPath": "compound_interest",
+        "description": "compound_interest",
+        "peekOfCode": "def compound_interest(p, t, r):\n    return p * (pow((1 + r / 100), t))\nif __name__ == \"__main__\":\n    p = float(input(\"Enter the principal amount: \"))\n    t = float(input(\"Enter the time period: \"))\n    r = float(input(\"Enter the rate of interest: \"))\n    print(\"The compound interest is {:.2f}\".format(compound_interest(p, t, r)))",
+        "detail": "compound_interest",
+        "documentation": {}
+    }
+]
