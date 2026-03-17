@@ -1,4 +1,5 @@
 # Introduction to Git and GitHub
+This project is for learning Git.
 
 ## Simple Interest Calculator
 
