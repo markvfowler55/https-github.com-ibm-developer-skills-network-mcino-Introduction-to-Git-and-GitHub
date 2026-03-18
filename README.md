@@ -16,4 +16,4 @@ Output
 
 2023 XYZ, Inc.
 
- (correction de la date)
+
