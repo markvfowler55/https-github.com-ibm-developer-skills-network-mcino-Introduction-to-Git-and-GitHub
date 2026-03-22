@@ -1,1 +1,1 @@
-"Fixed typo in documentation" | Out-File -FilePath fix.txt -Encoding utf8
+"Fixed typo in documentation" 
