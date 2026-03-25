@@ -13,4 +13,5 @@ Output
    simple interest = p*t*r
 ```
 
+Chages for task 8.
 _© 2022 XYZ, Inc._
