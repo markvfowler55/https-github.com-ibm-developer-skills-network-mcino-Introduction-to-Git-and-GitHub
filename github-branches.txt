@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert f6e6b4c add bug fix file
+  bug-fix-typo   11ad89a Fix typo in footer year from 2022 to 2023
+  main           71eebf5 [origin/main: ahead 2] add merge changes file
