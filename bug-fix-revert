@@ -1,0 +1,10 @@
+Branches:
+* bug-fix-revert 4703e5e [origin/bug-fix-revert] Revert "Fix README footer year typo to 2022"
+  bug-fix-typo   9f398ad [origin/bug-fix-typo] Fix README footer year typo to 2023
+  main           bc0cc21 [origin/main] Add merge output for bug-fix-typo task
+
+Command:
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/6546 | jq -r '.head.repo.clone_url'
+
+Output:
+https://github.com/yousefmfawzy/mcino-Introduction-to-Git-and-GitHub.git
