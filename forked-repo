@@ -1,0 +1,10 @@
+$ curl -s https://api.github.com/repos/Morgan-Reichert/mcino-Introduction-to-Git-and-GitHub | grep -i "full_name\|fork\|parent"
+  "full_name": "Morgan-Reichert/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "forks_url": "https://api.github.com/repos/Morgan-Reichert/mcino-Introduction-to-Git-and-GitHub/forks",
+  "forks_count": 0,
+  "allow_forking": true,
+  "forks": 0,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "fork": false,
