@@ -1,4 +1,4 @@
-# Introduction to Git and GitHub
+[# Introduction to Git and GitHub
 
 ## Simple Interest Calculator
 
@@ -14,3 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+](https://github.com/Briansalazarh/mcino-Introduction-to-Git-and-GitHub)
