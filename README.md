@@ -15,3 +15,5 @@ Output
 
 _© 2022 XYZ, Inc._
 ](https://github.com/Briansalazarh/mcino-Introduction-to-Git-and-GitHub)
+Fixing a typo
+Fixing a typo in documentation
