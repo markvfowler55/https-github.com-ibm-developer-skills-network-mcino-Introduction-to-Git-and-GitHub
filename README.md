@@ -14,3 +14,6 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+Simple Interest=100p×t×r​
+
+simple interest = (p * t * r) / 100
