@@ -7,4 +7,4 @@ Simple Interest = (P × R × T) / 100
 
 This project is part of Coursera Git and GitHub final assignment.
 
-New change added for pull request demonstration.
+This line is added for pull request
